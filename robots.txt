@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /cms/
+Disallow: /en/cms/
+Disallow: /libs/
+Disallow: /en/libs/
+Disallow: /views/
+Disallow: /en/views/
